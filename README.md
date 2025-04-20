@@ -2,7 +2,7 @@
 
 ## Introducción
 
-En este proyecto ayudamos al Sr. Juan a tomar una decisión estratégica: determinar cuál de las tiendas de la cadena **Alura Store** es la menos eficiente y que, por lo tanto, debería ser vendida para iniciar un nuevo emprendimiento. A lo largo del análisis se trabajarán datos de ventas, rendimiento y reseñas de 4 tiendas.
+En este proyecto ayudaremos al Sr. Juan a tomar una decisión estratégica: determinar cuál de las tiendas de la cadena **Alura Store** es la menos eficiente y que, por lo tanto, debería ser vendida para iniciar un nuevo emprendimiento. A lo largo del análisis se trabajarán datos de ventas, rendimiento y reseñas de 4 tiendas.
 
 ## Objetivos
 
@@ -20,8 +20,8 @@ En este proyecto ayudamos al Sr. Juan a tomar una decisión estratégica: determ
 
 La organización del repositorio será de la siguiente forma:
 
-├── data/ # Archivos CSV con los datos de las tiendas 
-├── notebooks/ # Jupyter Notebooks para análisis exploratorio, visualización e informe final
+├── data/ # Archivos CSV con los datos de las tiendas<br>
+├── notebooks/ # Jupyter Notebooks para análisis exploratorio, visualización e informe final<br>
 └── README.md # Este documento
 
 
@@ -37,12 +37,13 @@ La organización del repositorio será de la siguiente forma:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone <URL-del-repositorio>
+   git clone <https://github.com/anacodes24/challenge-alura-store.git>
    ```
 2. **Instala las dependencias:**
 
-pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. **Ejecuta el análisis:**
 
 * Abre y ejecuta el notebook principal desde la carpeta notebooks o ejecuta los scripts en la carpeta scripts.
