@@ -21,7 +21,7 @@ En este proyecto ayudaremos al Sr. Juan a tomar una decisión estratégica: dete
 La organización del repositorio será de la siguiente forma:
 
 ├── data/ # Archivos CSV con los datos de las tiendas<br>
-├── notebooks/ # Jupyter Notebooks para análisis exploratorio, visualización e informe final<br>
+├── AluraStoreLatam.ipynb # Jupyter Notebook para análisis exploratorio, visualización e informe final<br>
 └── README.md # Este documento
 
 
